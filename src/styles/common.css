@@ -1,0 +1,28 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;;
+}
+
+#header {
+    height: 42px;
+    background-color: #4658b3;
+    width: 100%;
+    padding-right: 205px;
+}
+
+#header-inset {
+    padding-left: 67px;
+    padding-right: 67px;
+}
+
+#header-logo {
+    margin-bottom: 7px;
+    margin-top: 7px;
+    margin-right: 5px;
+    margin-left: -2px;
+    background-color: white;
+    background-image: url("../images/fIcon.svg");
+    width: 28px;
+    display: inline-block;
+    font-size: 1.75em;
+    text-align: right;
+}
